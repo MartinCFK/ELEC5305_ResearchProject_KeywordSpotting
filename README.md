@@ -3,6 +3,5 @@
 ## Introduction 
 ## Research Question 
 ## MATLAB Code
-## Python Code
 ## Result and Discussion
 ## Conclusion 
